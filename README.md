@@ -16,8 +16,12 @@ This is a personal project series based on the lessons by @anonystick ([https://
 
 `9-nodejs_mongodb_wc_showCase_API_Product_use_Factory_Pattern` is a Node.js application that demonstrates the use of the simple factory pattern to create a flexible and scalable API for managing products in a MongoDB database. This approach is ideal for e-commerce platforms where product management requires a dynamic and adaptable architecture.
 
-Version upgrade level Junior: https://github.com/phamhung075/10-nodejs_mongodb_wc_showCase_Api_Service_use_Factory_Pattern_Products_Junior_lv
-Version upgrade level Senior: https://github.com/phamhung075/11-nodejs_mongodb_wc_showCase_Api_Service_use_Factory_Pattern_Products_Senior_lv
+Version upgrade level Junior: 
+https://github.com/phamhung075/10-nodejs_mongodb_wc_showCase_Api_Service_use_Factory_Pattern_Products_Junior_lv
+
+Version upgrade level Senior: 
+https://github.com/phamhung075/11-nodejs_mongodb_wc_showCase_Api_Service_use_Factory_Pattern_Products_Senior_lv
+
 ### Installation
 
 - Clone the repository:
